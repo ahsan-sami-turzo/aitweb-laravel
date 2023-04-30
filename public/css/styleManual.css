@@ -1,0 +1,82 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-light .navbar-brand {
+    color: #fff !important;
+}
+
+.login{
+    border: 3px solid #fff;
+    color : #fff;
+    font-size: 16px !important;
+    padding: 5px;
+    font-weight:bold;
+}
+.DateTime{
+    color: #fff;
+    font-size: 13px;
+    text-decoration: none;
+    /* padding: 9px 10px 33px 10px; */
+    /* border-right: 3px solid #fff; */
+    padding: 10px;
+}
+.card-footer {
+
+    background-color: #41B883 ;
+}
+.bg-light {
+    background-color: #41B883  !important;
+}
+.nav-link {
+   color: white !important;
+}
+
+.deposit{
+    background-color: #41B883  !important;
+}
+.menu_type{
+    margin-top: 10px;
+    /* border:1px solid teal; */
+}
+
+.menu_type ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+.menu_type ul li{
+   display: inline;
+   font-size: 20px;
+    padding:5px;
+   border: 1px solid #008080;
+
+ }
+ .menu_type ul li a{
+    text-decoration: none;
+
+  }
+
+
+
+
+ .setting_menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.setting_menu ul li a{
+    text-decoration: none;
+    color: #41B883;
+    font-weight: 500;
+    font-size: 18px !important;
+
+  }
+
+
+.setting_menu ul li a:hover { color: #fff; background-color:#41B883;}
+
+
